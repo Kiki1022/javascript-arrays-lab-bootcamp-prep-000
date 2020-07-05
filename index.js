@@ -39,7 +39,8 @@ function prependKitten(name, array)
 
 function removeLastKitten()
 {
-  console.log(kittens.slice(0,2));
+  var kittens2 = (kittens.slice(0,2));
+  return kittens2;
   
   
   
