@@ -38,6 +38,9 @@ function prependKitten(name, array)
 }
 
 function removeLastKitten()
+kittens2 = kittens.length
+
+
 {
   
 }
