@@ -33,7 +33,7 @@ function appendKitten(name)
 
 function prependKitten(name, array)
 {
- return ["Arnold"...kittens];
+ return [element...kittens];
   
 }
 
